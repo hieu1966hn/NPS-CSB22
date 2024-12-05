@@ -29,8 +29,10 @@
 from turtle import *
 
 forward(100)
-right(60)
+right(120)
+forward(100)
+right(120)
+forward(100)
+right(120)
 
 mainloop() ## không bị tự động tắt chương trình
-
-
