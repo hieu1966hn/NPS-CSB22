@@ -12,12 +12,14 @@ phép so sánh 1 > 2 có kết quả là False
 
 Tên nhà toán học & logic học người Anh: George Boole
 
-1. Phép toán so sánh
+1. Phép toán so sánh: >, <, >=, <=, ==, !=
 - Cho phép ta kiểm tra quan hệ trước sau giữa hai giá trị bất kỳ. Kết quả của một phép so sánh trong Python là một giá trị boolean.
 
-2. Phép toán logic
+2. Phép toán logic (and, or, not)
 - Cho phép ta kết hợp các giá trị boolean trong một biểu thức logic. Kết quả của một phép logic trong Python là một giá trị boolean.
-
++ and: phép toán logic tìm "False": trong các biểu thức, nếu tồn tại 1 biểu thức có kết quả là "False" => output: False. Ngược lại, output: True.
++ or: phép toán logic tìm "True": trong các biểu thức, nếu tồn tại 1 biểu thức có kết quả là "True" => output: True. Ngược lại, output: False.
++ not: Ngược lại với biểu thức đang xét. VD not False => True
 
 3. Cấu trúc điều kiện
 - Cho phép ta quyết định hành động nào được thực hiện, dựa trên các điều kiện cho trước.
