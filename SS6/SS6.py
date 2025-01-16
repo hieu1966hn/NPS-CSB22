@@ -69,11 +69,3 @@ for i in range(len(arr3)):
 print(arr3)
 
 
-
-    
-
-    
-
-    
-
-
