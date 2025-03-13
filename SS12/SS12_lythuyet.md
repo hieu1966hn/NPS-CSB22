@@ -3,7 +3,7 @@ Buổi 12: Xử lý Files
 Gồm 3 phần: 
 + folder path: Vị trí của folder chứa file. thứ tự các folder được chia cắt bởi dấu / (UNIX) hoặc \ (Window)
 + file name: Tên file
-+ Extension: định dạng của file, bắt đầu bằng dấu .
++ Extension: định dạng của file, bắt đầu bằng dấu.
 
 
 Phân loại file: Khi xử lý, ta có t hể chia file thành 2 loại:
